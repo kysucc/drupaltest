@@ -16,3 +16,4 @@ a.login.nav-link{margin-right:0;}
     -o-transform: none;
     transform: none;
 }
+.node-type-event-promotion .card .col-md-6{width:100% !important;}
