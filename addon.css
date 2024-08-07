@@ -1,0 +1,10 @@
+/*Shared*/
+nav .container {
+    width: calc(100% - 80px) !important;
+}
+ul.nav.navbar-nav.navbar-right,
+a.login.nav-link{margin-right:0;}
+
+.node-type-event-promotion{
+    
+}
