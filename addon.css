@@ -8,4 +8,11 @@ a.login.nav-link{margin-right:0;}
 .node-type-event-promotion{
     
 }
-.container.node-event-promotion{width:100%;}
+.node-type-event-promotion .container.node-event-promotion{width:100%;}
+.node-type-event-promotion .card .card-image:hover img{
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
