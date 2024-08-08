@@ -19,3 +19,7 @@ a.login.nav-link{margin-right:0;}
     transform: none;
 }
 .node-type-event-promotion .card .col-md-6{width:100% !important;}
+.node-type-event-promotion .card .col-md-6:last-of-type{
+    width: 1170px;
+    margin: 0 180px;
+}
