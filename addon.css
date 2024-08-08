@@ -8,7 +8,7 @@ a.login.nav-link{margin-right:0;}
 .node-type-event-promotion{
     
 }
-.node-type-event-promotion .container.node-event-promotion{width:100%;}
+.node-type-event-promotion .container.node-event-promotion{width:100%;padding:0;}
 .node-type-event-promotion .card,.node-type-event-promotion .card:hover{box-shadow:none;}
 .node-type-event-promotion .card .card-header{border:0;background:transparent;}
 .node-type-event-promotion .card .card-image:hover img{
